@@ -89,10 +89,3 @@ It includes an **interactive login/signup page** with animations, a **dynamic bl
 
 ---
 
-## ⚙️ Setup Instructions
-
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/Sayanta20/IoTblog.git
-   cd IoTblog
-
